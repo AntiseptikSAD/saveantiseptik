@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background: rgb(5, 122, 126);
+}
+
+p{
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: fantasy;
+}
+span{
+    color: red;
+}
+.menu{
+    display: flex;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    background-image: url(../image/logo.jpg);
+    background-size: 100%;
+}
+.sound{
+    padding: 0;
+    margin: 0;
+
+}
